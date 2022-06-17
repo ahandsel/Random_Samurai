@@ -33,12 +33,13 @@
 
 Hello,
 
-I would like to move in to your place sometime in mid-July. Is your place still available?
+I would like to move in to your place sometime in mid-July.  
+Is your place still available?
 
-Also, are utilities included in the monthly cost?
+Also, are utilities included in the monthly cost?  
 Are there additional fees (e.g., deposit, internet, maintenance charges)?
 
-Thank you for your time,
+Thank you for your time,  
 Sakura
 
 ---
@@ -47,10 +48,10 @@ Sakura
 
 7月中旬にあなたの場所に引っ越したいと思います。あなたの場所はまだ利用できますか？
 
-また、光熱費は月額料金に含まれていますか？
+また、光熱費は月額料金に含まれていますか？  
 追加料金（デポジット、インターネット、メンテナンス料金など）はありますか？
 
-お時間をいただきありがとうございます、
+お時間をいただきありがとうございます、  
 さくら
 
 ---
